@@ -1,0 +1,12 @@
+----- Student Payment Receipt -----
+Name: 
+Reg No: 
+Batch: 
+Roll No: 
+Department: 
+
+Fees Paid:
+Examination Fee: ₹1100.0
+
+Total: ₹1100.0
+----------------------------------
